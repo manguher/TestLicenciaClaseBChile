@@ -136,7 +136,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img10.jpg",
+    "imagen": "images/img10.webp",
     "dosPuntos": false
   },
   {
@@ -1288,7 +1288,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img12.jpg",
+    "imagen": "images/img12.webp",
     "dosPuntos": false
   },
   {
@@ -1428,7 +1428,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img17.jpg",
+    "imagen": "images/img17.webp",
     "dosPuntos": false
   },
   {
@@ -1468,7 +1468,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img19.jpg",
+    "imagen": "images/img19.webp",
     "dosPuntos": false
   },
   {
@@ -1488,7 +1488,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img22.jpg",
+    "imagen": "images/img22.gif",
     "dosPuntos": false
   },
   {
@@ -1532,7 +1532,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img23.jpg",
+    "imagen": "images/img23.jpg",
     "dosPuntos": false
   },
   {
@@ -1552,7 +1552,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img26.jpg",
+    "imagen": "images/img26.webp",  
     "dosPuntos": false
   },
   {
@@ -1676,7 +1676,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img27.jpg",
+    "imagen": "images/img27.webp",
     "dosPuntos": false
   },
   {
@@ -1836,7 +1836,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img32.PNG",
+    "imagen": "images/img32.jpg",
     "dosPuntos": false
   },
   {
@@ -2136,7 +2136,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img42.jpg",
+    "imagen": "images/img42.jpg",
     "dosPuntos": false
   },
   {
@@ -2336,7 +2336,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img186.jpg",
+    "imagen": "images/img186.webp",
     "dosPuntos": false
   },
   {
@@ -3256,7 +3256,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img234.jpg",
+    "imagen": "images/img234.webp",
     "dosPuntos": false
   },
   {
@@ -3276,7 +3276,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img235.jpg",
+    "imagen": "images/img235.webp",
     "dosPuntos": false
   },
   {
@@ -3400,7 +3400,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img241.jpg",
+    "imagen": "images/img241.webp",
     "dosPuntos": false
   },
   {
@@ -3460,7 +3460,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img244.jpg",
+    "imagen": "images/img244.webp",
     "dosPuntos": false
   },
   {
@@ -3480,7 +3480,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img245.jpg",
+    "imagen": "images/img245.webp",
     "dosPuntos": false
   },
   {
@@ -3500,7 +3500,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img246.jpg",
+    "imagen": "images/img246.webp",
     "dosPuntos": false
   },
   {
@@ -3520,7 +3520,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img247.jpg",
+    "imagen": "images/img247.webp",
     "dosPuntos": false
   },
   {
@@ -3544,7 +3544,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img248.jpg",
+    "imagen": "images/img248.webp",
     "dosPuntos": false
   },
   {
@@ -3564,7 +3564,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img249.jpg",
+    "imagen": "images/img249.webp",
     "dosPuntos": false
   },
   {
@@ -3584,7 +3584,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img250.jpg",
+    "imagen": "images/img250.webp",
     "dosPuntos": false
   },
   {
@@ -3624,7 +3624,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img252.jpg",
+    "imagen": "images/img252.webp",
     "dosPuntos": false
   },
   {
@@ -3664,7 +3664,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img254.jpg",
+    "imagen": "images/img254.webp",
     "dosPuntos": false
   },
   {
@@ -3684,7 +3684,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img255.jpg",
+    "imagen": "images/img255.webp",
     "dosPuntos": false
   },
   {
@@ -3708,7 +3708,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img256.jpg",
+    "imagen": "images/img256.webp",
     "dosPuntos": false
   },
   {
@@ -3728,7 +3728,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img257.jpg",
+    "imagen": "images/img257.webp",
     "dosPuntos": false
   },
   {
@@ -3752,7 +3752,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img258.jpg",
+    "imagen": "images/img258.webp",
     "dosPuntos": false
   },
   {
@@ -3816,7 +3816,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img261.jpg",
+    "imagen": "images/img261.webp",
     "dosPuntos": false
   },
   {
@@ -3836,7 +3836,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img262.jpg",
+    "imagen": "images/img262.webp",
     "dosPuntos": false
   },
   {
@@ -3852,7 +3852,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img263.jpg",
+    "imagen": "images/img263.jpg",
     "dosPuntos": false
   },
   {
@@ -3872,7 +3872,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img264.jpg",
+    "imagen": "images/img264.webp",
     "dosPuntos": false
   },
   {
@@ -4491,7 +4491,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img1.png",
+    "imagen": "images/img1.webp",
     "dosPuntos": false
   },
   {
@@ -4511,7 +4511,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img3.png",
+    "imagen": "images/img3.jpg",
     "dosPuntos": false
   },
   {
@@ -4531,7 +4531,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img4.jpg",
+    "imagen": "images/img4.webp",
     "dosPuntos": false
   },
   {
@@ -4615,7 +4615,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img5.png",
+    "imagen": "images/img5.webp",
     "dosPuntos": false
   },
   {
@@ -4635,7 +4635,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img6.png",
+    "imagen": "images/img6.jpg",
     "dosPuntos": false
   },
   {
@@ -4655,7 +4655,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img7.png",
+    "imagen": "images/img7.webp",
     "dosPuntos": false
   },
   {
@@ -4675,7 +4675,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img8.jpg",
+    "imagen": "images/img8.webp",
     "dosPuntos": false
   },
   {
@@ -4695,7 +4695,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img9.jpg",
+    "imagen": "images/img9.webp",
     "dosPuntos": false
   },
   {
@@ -4935,7 +4935,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img2.PNG",
+    "imagen": "images/img2.webp",
     "dosPuntos": true
   },
   {
@@ -5239,7 +5239,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img11.jpg",
+    "imagen": "images/img11.webp",
     "dosPuntos": true
   },
   {
@@ -5587,7 +5587,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img13.jpg",
+    "imagen": "images/img13.webp",
     "dosPuntos": true
   },
   {
@@ -5607,7 +5607,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img14.jpg",
+    "imagen": "images/img14.webp",
     "dosPuntos": true
   },
   {
@@ -5647,7 +5647,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img15.jpg",
+    "imagen": "images/img15.webp",
     "dosPuntos": true
   },
   {
@@ -5687,7 +5687,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img16.jpg",
+    "imagen": "images/img16.webp",
     "dosPuntos": true
   },
   {
@@ -5735,7 +5735,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img18.jpg",
+    "imagen": "images/img18.webp",
     "dosPuntos": true
   },
   {
@@ -5755,7 +5755,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img20.jpg",
+    "imagen": "images/img20.webp",
     "dosPuntos": true
   },
   {
@@ -5775,7 +5775,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img21.jpg",
+    "imagen": "images/img21.jpg",
     "dosPuntos": true
   },
   {
@@ -5819,7 +5819,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img24.jpg",
+    "imagen": "images/img24.webp",
     "dosPuntos": true
   },
   {
@@ -5839,7 +5839,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img25.jpg",
+    "imagen": "images/img25.jpg",
     "dosPuntos": true
   },
   {
@@ -5999,7 +5999,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img28.jpg",
+    "imagen": "images/img28.webp",
     "dosPuntos": true
   },
   {
@@ -6023,7 +6023,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img29.PNG",
+    "imagen": "images/img29.jpg",
     "dosPuntos": true
   },
   {
@@ -6047,7 +6047,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img30.PNG",
+    "imagen": "images/img30.webp",
     "dosPuntos": true
   },
   {
@@ -6087,7 +6087,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img31.jpg",
+    "imagen": "images/img31.webp",
     "dosPuntos": true
   },
   {
@@ -6107,7 +6107,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img33.PNG",
+    "imagen": "images/img33.webp",
     "dosPuntos": true
   },
   {
@@ -6151,7 +6151,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img34.jpg",
+    "imagen": "images/img34.webp",
     "dosPuntos": true
   },
   {
@@ -6191,7 +6191,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img35.jpg",
+    "imagen": "images/img35.webp",
     "dosPuntos": true
   },
   {
@@ -6211,7 +6211,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img36.jpg",
+    "imagen": "images/img36.webp",
     "dosPuntos": true
   },
   {
@@ -6295,7 +6295,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img37.PNG",
+    "imagen": "images/img37.jpg",
     "dosPuntos": true
   },
   {
@@ -6319,7 +6319,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img38.PNG",
+    "imagen": "images/img38.jpg",
     "dosPuntos": true
   },
   {
@@ -6403,7 +6403,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img39",
+    "imagen": "images/img39.webp",
     "dosPuntos": true
   },
   {
@@ -6447,7 +6447,7 @@
         "correcta": true
       }
     ],
-    "imagen": "./img/img40.jpg",
+    "imagen": "images/img40.webp",
     "dosPuntos": true
   },
   {
@@ -6467,7 +6467,7 @@
         "correcta": false
       }
     ],
-    "imagen": "./img/img41.jpg",
+    "imagen": "images/img41.webp",
     "dosPuntos": true
   }
 ]
