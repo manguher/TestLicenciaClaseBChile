@@ -299,6 +299,13 @@ function seleccionarAlternativa(idx) {
     // Para preguntas de selección única
     seleccionadas.value = [idx]
   }
+  
+  // Guardar las selecciones actuales en respuestasSeleccionadas
+  // incluso si no se ha presionado el botón "Responder"
+  if (!respuestasSeleccionadas.value[actual.value]) {
+    respuestasSeleccionadas.value[actual.value] = []
+  }
+  respuestasSeleccionadas.value[actual.value] = [...seleccionadas.value]
 }
 
 function verificarRespuesta() {
@@ -348,7 +355,10 @@ function irAPregunta(index) {
 }
 
 function finalizarTest() {
-  // Verificar si hay preguntas sin responder
+  // Evaluar todas las respuestas seleccionadas que no han sido verificadas
+  evaluarRespuestasPendientes()
+  
+  // Verificar si hay preguntas sin responder (después de la evaluación automática)
   const preguntasSinResponder = respuestasUsuario.value.filter(r => r === null).length
   
   if (preguntasSinResponder > 0) {
@@ -363,6 +373,47 @@ function finalizarTest() {
 
 function verRevision() {
   mostrarRevision.value = true
+}
+
+function evaluarRespuestasPendientes() {
+  // Recorrer todas las preguntas
+  for (let i = 0; i < preguntasTest.value.length; i++) {
+    // Si la pregunta no ha sido respondida pero tiene selecciones
+    if (respuestasUsuario.value[i] === null && respuestasSeleccionadas.value[i] && respuestasSeleccionadas.value[i].length > 0) {
+      // Guardar la pregunta actual
+      const preguntaActualTemp = actual.value
+      const respondidoTemp = respondido.value
+      
+      // Cambiar a la pregunta que vamos a evaluar
+      actual.value = i
+      seleccionadas.value = respuestasSeleccionadas.value[i]
+      
+      // Evaluar la respuesta
+      verificarRespuestaAutomatica()
+      
+      // Restaurar la pregunta actual
+      actual.value = preguntaActualTemp
+      respondido.value = respondidoTemp
+    }
+  }
+}
+
+function verificarRespuestaAutomatica() {
+  // Obtener índices de alternativas correctas
+  const correctas = preguntaActual.value.alternativas
+    .map((a, i) => a.correcta ? i : null)
+    .filter(i => i !== null)
+    .sort()
+  
+  // Ordenar selecciones del usuario
+  let seleccion = [...seleccionadas.value].sort()
+  
+  // Verificar si la respuesta es correcta
+  const esCorrectaTemp = JSON.stringify(correctas) === JSON.stringify(seleccion)
+  
+  // Guardar resultado y selecciones
+  respuestasUsuario.value[actual.value] = esCorrectaTemp
+  respuestasSeleccionadas.value[actual.value] = [...seleccionadas.value]
 }
 
 function reiniciarTest() {
